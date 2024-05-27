@@ -1,5 +1,5 @@
 ## Single-Loop-bilevel-Optimizer-under-Unbounded-Smoothness
-This is an single-loop bilevel optimizer under unbounded smoothness.
+This is a single-loop bilevel optimizer under unbounded smoothness.
 Please check `data hyper-cleaning` for details of data hyper-cleaning experiment and `hyper-representation` for meta-learning experiment.
 
 ## Citation
