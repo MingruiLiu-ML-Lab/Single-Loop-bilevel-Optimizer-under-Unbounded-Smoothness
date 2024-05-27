@@ -1,5 +1,5 @@
 ## Single-Loop-bilevel-Optimizer-under-Unbounded-Smoothness
-This repository contains PyTorch codes for ICML2024 paper "A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness".
+This repository contains PyTorch codes for ICML2024 paper "A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness" Xiaochuan Gong, Jie Hao, Mingrui Liu.
 
 ## Requirements
 
